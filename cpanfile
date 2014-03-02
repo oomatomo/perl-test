@@ -16,3 +16,4 @@ requires 'DBIx::Inspector';
 requires 'Data::Visitor::Callback';
 requires 'YAML::Syck';
 requires 'Cache::Memcached::Fast';
+requires 'App::Prove::Plugin::MySQLPool';
