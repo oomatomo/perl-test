@@ -32,3 +32,9 @@ carton でモジュールを管理しています。
 
 test.sqlから抽出したYAMLファイルです
 
+## docker
+
+```
+docker build -t perl .
+docker run perl
+```
